@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Agent guidelines (personal to each developer)
+AGENTS.md
